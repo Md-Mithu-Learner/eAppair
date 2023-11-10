@@ -219,15 +219,15 @@
     z-index: 111;
   }
   .navbar-default .navbar-toggle {
-    border-color: #393939;
+    border-color: #fff;
     color: #fff !important;
-    background-color: #393939;
+    background-color: #0000ff;
     border-radius: 15px 0px 15px 0px;
   }
   .navbar-default .navbar-toggle:hover,
   .navbar-default .navbar-toggle:focus {
-    border-color: #fd6802;
-    background-color: #fd6802;
+    border-color: #0000ff;
+    background-color: #0000ff;
   }
   .navbar-default .navbar-collapse,
   .navbar-default .navbar-form {
